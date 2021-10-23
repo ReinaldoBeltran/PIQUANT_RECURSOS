@@ -1,0 +1,12 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.twitter.com	TRUE	/	FALSE	1999999999	fm	0
+.twitter.com	TRUE	/	FALSE	1999999999	_twitter_sess	BAh7CCIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%250ASGFzaHsABjoKQHVzZWR7ADoPY3JlYXRlZF9hdGwrCN3RF618AToHaWQiJTYz%250ANTE4N2MwZGM4YjAwYWIyN2Y0ZDllMjBiOTYxYmFk--a54b90917c2a89e553570353e3d44721b2e7d84c
+.twitter.com	TRUE	/	FALSE	1999999999	personalization_id	v1_0b3zBMfLcM92eE+95o38Rg=="
+.twitter.com	TRUE	/	FALSE	1999999999	guest_id	v1%3A163499159189592773
+twitter.com	TRUE	/	FALSE	1999999999	SameSite	None
+.twitter.com	TRUE	/	FALSE	1999999999	external_referer	0Z2yCZ8K5BDId8eif9x6W26N9J9XLgXiEbuComn2A22GS84p5QsMP5EADLb4unC6rx%2BO3It6V40%3D|0|8e8t2xd8A2w%3D
+piquant.qodeinteractive.com	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
+piquant.qodeinteractive.com	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	0a53387e5f36c6db1a3e2a5af1359ed0
+piquant.qodeinteractive.com	TRUE	/	FALSE	1999999999	wp_woocommerce_session_c5cc54c75056a163ed62ada3f5f43881	41fb5ecac88b0246597f6382339f91a1%7C%7C1635162703%7C%7C1635159103%7C%7C679c12acd8cdd985f07c896ee4973b98
+
